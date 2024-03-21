@@ -37,6 +37,8 @@ export default function Home() {
           height={37}
           priority
         />
+
+        <h6 className="ms-4 mt-5" >with Pratik bhandari</h6>
       </div>
 
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
